@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2ijgUZ0'_blank'><img src='https://lh3.googleusercontent.com/t3XPR4GcPaiw12IDQSGATfE1pANVX9JLNDkz9goLQLmH2jZIxa2XBFHRer5N2DROtgMAa20-2t8VdzvnQjULgXjB13YgHfk6=w1366-h768-rw-no' width='500px'/><br/>Thiết kế thi công hồ cá koi</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2ijgUZ0'_blank'><img src='https://lh3.googleusercontent.com/t3XPR4GcPaiw12IDQSGATfE1pANVX9JLNDkz9goLQLmH2jZIxa2XBFHRer5N2DROtgMAa20-2t8VdzvnQjULgXjB13YgHfk6=w1366-h768-rw-no' width='500px'/><br/>Thiết kế thi công hồ cá koi</a>. Thiên Dương Koi. <h2><a class='close-thienduong-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
